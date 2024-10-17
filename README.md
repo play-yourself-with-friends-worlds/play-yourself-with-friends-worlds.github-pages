@@ -1,2 +1,2 @@
-# play-yourself-with-friends-woods.github-pages
+# play-yourself-with-friends-worlds.github-pages
 Open woods of Volshba
