@@ -1,5 +1,5 @@
 # play-yourself-with-friends-worlds.github-pages
-Dedicated to Malen'kiy Muk a female Clarinetist!!!
+Dedicated to Malen'kiy Muk --- a female Clarinetist!!! And also to Giya Kancheli's Mourned by the Wind liturgy.
 
 Open worlds of Volshba
 
