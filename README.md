@@ -8,3 +8,5 @@ Open worlds of Volshba
 Project Inception by the Playing Child: Evgeniy Grigoriewitch Philippov
 
 *To be done*: keep persistent variables at floating SOLID_MIT accounts?
+
+*To be done*: redirect https://play-yourself.any.surf/ to https://play-yourself at Gitlab Pages
